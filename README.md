@@ -1,7 +1,7 @@
 极验一键通过模式与滑动模式-float JS逆向破解
 -
 #### 说明：本项目主要使用python和nodejs开发,以极验官网demo作为案例,为避免滥用已对JS文件做混淆处理
-#### 安装：npm install express
+#### 安装：npm --registry https://r.npm.taobao.org install express
 #### 启动：先运行 `./static/js/api.js` ,然后选择运行 `geetest_wugan.py` 或者 `geetest_slide.py`
 #### 版本：`fullpage 9.0.8` `slide 7.8.6`
 
